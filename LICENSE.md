@@ -1,0 +1,3 @@
+#Some license file
+
+This is a simple license file
